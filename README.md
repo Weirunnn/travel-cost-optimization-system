@@ -1,37 +1,36 @@
 # Travel Cost Calculator
 
-A React-based web application that calculates travel expenses based on driving distance, lodging, meals, and toll costs.
+## Overview
+This project is a travel cost calculation tool designed to estimate expenses based on user inputs such as distance, lodging, and other cost factors.
 
-## Tech Stack
-- React
-- JavaScript
-- Vite
-- HTML / CSS
+## Purpose
+The goal of this project is to simulate real-world business expense calculations and demonstrate how cost estimation logic can be implemented programmatically.
 
 ## Features
-- Calculate travel reimbursement
-- Manual input for driving distance
-- User input for toll costs
-- Automatic cost estimation based on per diem rules
-- Simple and interactive UI
+- Distance-based cost calculation
+- Lodging and meal estimation
+- Customizable cost rules
+- Input-based expense estimation
+- Structured calculation logic
 
-## Project Structure
+## Tech Stack
+- Java / JavaScript (depending on your implementation)
+- Business logic implementation
 
-src/
- ├── App.jsx  
- ├── TravelCostApp.jsx  
- ├── utils/  
- │    └── distance.js  
+## What I Learned
+- Designing cost calculation systems
+- Implementing business rules in code
+- Structuring modular calculation logic
+- Handling user input and validation
 
-public/
- └── zip_meals_lookup.csv
+## Use Case
+This system can be used for:
+- Business travel expense estimation
+- Budget planning tools
+- Internal company tools for cost calculation
 
-## How to Run
-
-Install dependencies:
-
-npm install
-
-Start the development server:
-
-npm run dev
+## Future Improvements
+- Add UI for better interaction
+- Integrate API (e.g., map distance)
+- Store historical records
+- Convert into a web-based application
