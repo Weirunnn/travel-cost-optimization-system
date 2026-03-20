@@ -1,33 +1,24 @@
-# Travel Cost Calculator System
+# Travel Cost Optimization System
 
 ## Overview
-A system designed to estimate travel expenses based on user inputs such as distance, lodging, and cost parameters.
-
-## Problem / Motivation
-Manual travel expense calculation is time-consuming and error-prone, especially when applying business rules such as mileage rates and lodging costs.
-
-## Solution
-This project implements a structured cost calculation engine that automates expense estimation based on configurable rules.
+A business-oriented cost estimation system designed to support travel planning, expense calculation, and internal reporting workflows.
 
 ## Features
-- Distance-based cost calculation
-- Lodging and meal estimation
-- Input-driven expense calculation
-- Modular business logic design
+- Travel distance and expense calculation
+- Cost estimation logic for planning and approval workflows
+- Modular calculation structure for business rules
+- User-friendly interface for internal usage
 
 ## Tech Stack
-- Java / JavaScript
-- Business logic implementation
+- JavaScript
+- React
+- HTML/CSS
 
-## Example / Output
-(Add screenshots or sample calculation results)
-
-## What I Learned
-- Designing calculation systems
-- Implementing business rules in code
-- Structuring modular logic
+## Business Use Case
+This system can be used by teams or internal operations staff to estimate and manage travel-related expenses more efficiently and consistently.
 
 ## Future Improvements
-- Add UI interface
-- Integrate external APIs (e.g., maps)
-- Store historical records
+- Multi-user support
+- Export to PDF or Excel
+- Approval workflow integration
+- Dashboard reporting
