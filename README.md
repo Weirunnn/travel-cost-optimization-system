@@ -31,3 +31,17 @@ This system can be used by:
 
 It enables consistent, transparent, and scalable cost calculations across business scenarios.
 
+
+---
+
+## Future Improvements
+- Integration with APIs or external services
+- Scalable architecture enhancements
+- Performance optimization
+- Deployment as a web-based application
+
+---
+
+## Author
+JC EXPRESS – AI, Data, Software & Automation Solutions
+
